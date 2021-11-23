@@ -12,8 +12,8 @@ public class GITClass {
 		System.out.println("Hello Guys i am programmer now");
 			
 		
-		int x = 10;
-		int y = 20;
+		int First_name = 10;
+		int second_name = 20;
 		
 		
 
