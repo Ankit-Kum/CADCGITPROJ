@@ -8,8 +8,12 @@ public class GITClass {
 		System.out.println("Done by lead");
 		System.out.println("Hello Guys.");
 		
-		System.out.println("in staging area.");
 		
+		System.out.println("Hello Guys i am programmer now");
+			
+		
+		int x = 10;
+		int y = 20;
 		
 		
 
